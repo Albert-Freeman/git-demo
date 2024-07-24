@@ -1,5 +1,3 @@
-hello git this is hot-fix branch modify result
-ello git
-hello git
-hello git
+hello git 
+this is second modify in hot-fix branch
 
